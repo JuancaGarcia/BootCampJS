@@ -1,4 +1,3 @@
-import { boolean } from "yargs";
 import "./style.css";
 
 console.log("Modulo 3 - Variables!");
