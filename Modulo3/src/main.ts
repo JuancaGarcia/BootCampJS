@@ -2,7 +2,8 @@ import "./style.css";
 
 console.log("Modulo 3 - Variables!");
 
-const estiloTitulo = " background-color: green ; font-size:24pxclear"; //font-weight : bold
+const estiloTitulo =
+  " background-color: green ; font-size:24px ; font-weight : bold"; //font-weight : bold
 
 interface Grupo {
   nombreGrupo: String;
